@@ -48,4 +48,4 @@ Efecto difuso alrededor del Sol que simula la atmósfera externa:
 ---
 
 ## 🔗 Enlace CodeSandbox
-[Ir a CodeSandbox](https://codesandbox.io/p/github/ZuliiHdez/Planetario_Zuleima_Shaders/draft/charming-hill)
+[Ir a CodeSandbox](https://codesandbox.io/p/sandbox/planetario-zuleima-shaders-4m9v2n)
