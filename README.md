@@ -44,3 +44,8 @@ Efecto difuso alrededor del Sol que simula la atmósfera externa:
 - Mezcla de naranja cálido y amarillo suave.
 - Suavizado radial para un desvanecimiento natural.
 - Alpha dinámico según la posición y el tiempo.
+
+---
+
+## 🔗 Enlace CodeSandbox
+[Ir a CodeSandbox](https://codesandbox.io/p/github/ZuliiHdez/Planetario_Zuleima_Shaders/draft/charming-hill)
